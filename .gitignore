@@ -1,0 +1,8 @@
+__pycache__/
+node_modules/
+.idea/
+core/__pycache__/
+tmp/draw/001pic.png
+tmp/ct/0230624141606.jpg
+core/__pycache__/process.cpython-36.pyc
+tmp/draw/0230624141606.jpg
